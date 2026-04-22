@@ -52,17 +52,23 @@ Please refer to each worksheet for instructions and exercises for the correspond
 ## Week 08
 
 [Lab](Week08Lab.md)
+
 [Solution](Week08LabSolution.md)
 
 
 ## Week 09
 
 [Lab](Week09Lab.md)
+
 [Solution](Week09LabSolution.md)
 
 
 ## Week 10
 
 [Lab](Week10Lab.md)
+
 [Solution](Week10LabSolution.md)
 
+## FAQ and Checklist
+
+[Checklist](Week11Faq.md)
